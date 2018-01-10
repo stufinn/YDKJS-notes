@@ -7,7 +7,7 @@ const ACCESSORY_PRICE = 9.99;
 const SPENDING_THRESHOLD = 200;
 
 //variables:
-var bank_balance = 303.91;
+var bank_balance = prompt("Please enter your acount balance.");
 var amount = 0;
 var number_of_accessories = 0;
 var number_of_phones = 0;
