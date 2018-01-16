@@ -14,5 +14,3 @@ switch (true) {              //Any case that evaluates to true will be a match
 	default:
 		console.log("Sorry, you're old.");
 }
-
-
