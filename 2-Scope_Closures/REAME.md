@@ -1,1 +1,0 @@
-This repo contains code snippets and examples from YDKJS.  Most of the information here is taken directly from [YDKJS](https://github.com/getify/You-Dont-Know-JS). 
